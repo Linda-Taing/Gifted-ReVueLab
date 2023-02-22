@@ -44,9 +44,9 @@ export default {
         }catch (error){
           Pop.error(error)
         }
-      async createGift(formData){
-        
-      }
+      // async createGift(formData){
+
+      // }
       }
 
     
